@@ -2,8 +2,9 @@
 
 ## Instructions
 The program is written in typescript and compiles using TSX:
-`npm install`
-`npm run dev`
+1. Clone: `git clone https://github.com/LoneCoder102/250125---Client-Sorting-App.git`
+2. Install dependencies: `npm install`
+3. Run typescript directly `npm run dev`
 
 ## Notes
 
